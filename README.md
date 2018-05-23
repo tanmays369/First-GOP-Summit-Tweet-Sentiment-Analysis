@@ -1,0 +1,1 @@
+Perform tweet sentiment analysis on tweets by presidential candidates like Donald Trump, Ted Cruz and others in the 2016 US Presidential Election.
